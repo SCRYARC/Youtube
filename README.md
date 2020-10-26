@@ -1,3 +1,3 @@
-# Youtube
+# Repos
 
-This is just a repository for the channel.
+This is just a repository.
